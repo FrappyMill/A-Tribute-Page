@@ -6,7 +6,7 @@ body {
 .fullpage {
     background-color: rgb(240, 236, 236);
     width: 1330px;
-    height: 1000px;
+    height: 1700px;
     border-radius: 4px;
     margin-top: 70px;
     position: relative;
@@ -46,5 +46,24 @@ img {
     position: absolute;
     margin: 660px 0px 0px 372px;
     color: rgb(30, 30, 30);
+    font-family: sans-serif;
+}
+
+h3 {
+    color: rgb(47, 47, 47);
+    position: relative;
+    margin: 760px 0px 0px 415px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 23px;
+}
+
+ul {
+    max-width: 550px;
+    margin: 40px auto 50px auto;
+    color: rgb(49, 49, 49);
+}
+
+li {
+    margin: 16px 0;
     font-family: sans-serif;
 }
