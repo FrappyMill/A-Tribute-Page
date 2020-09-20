@@ -1,0 +1,50 @@
+body {
+    overflow: auto;
+    height: 100%;
+}
+
+.fullpage {
+    background-color: rgb(240, 236, 236);
+    width: 1330px;
+    height: 1000px;
+    border-radius: 4px;
+    margin-top: 70px;
+    position: relative;
+}
+
+.title {
+    position: absolute;
+    margin: 15px 0px 0px 490px;
+    color: rgb(47, 47, 47);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.comment {
+    font-style: italic;
+    position: absolute;
+    margin: 75px 0px 0px 575px;
+    color: rgb(54, 54, 54);
+    font-size: 18px;
+}
+
+.wb {
+    position: absolute;
+    background-color: white;
+    width: 1300px;
+    height: 710px;
+    margin: 135px 0px 0px 15px;
+}
+
+img {
+    width: 880px;
+    height: 630px;
+    position: absolute;
+    margin: 30px 0px 0px 210px;
+}
+
+.pic_comment {
+    position: absolute;
+    margin: 660px 0px 0px 372px;
+    color: rgb(30, 30, 30);
+    font-family: sans-serif;
+}
